@@ -23,7 +23,7 @@
   Я начинающий мобильный разработчик Android приложений, увлеченный созданием инновационных и удобных приложений с использованием языка программирования Kotlin.
 </div>
   
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### Skills
 <div id="skills" align="center">
@@ -35,7 +35,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+-------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jswmpls&theme=dark&hide_border=true&locale=ru&exclude_days=Sun)](https://git.io/streak-stats)
