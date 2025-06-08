@@ -7,7 +7,7 @@
   <a href="https://vk.com/yalohkakbi">
     <img src="https://img.shields.io/badge/Vk-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/iswmpls">
+  <a href="https://t.me/yalohkakbi">
     <img src="https://img.shields.io/badge/Tg-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" alt="Youtube Badge"/>
   </a>
 
